@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "logstashTest", "logstashTest\logstashTest.pyproj", "{DABDBDAD-23AB-420F-8CC3-62E8199ABC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABDBDAD-23AB-420F-8CC3-62E8199ABC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABDBDAD-23AB-420F-8CC3-62E8199ABC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA72A1D8-1BB3-4C7C-8F46-B707F79217EC}
+	EndGlobalSection
+EndGlobal
